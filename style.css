@@ -1,0 +1,44 @@
+/* Comment */
+body {
+    font-family: 'Playfair Display', serif;
+    background: #ffffff
+}
+
+h1 {
+    color: #000000;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+h2 {
+    color: #000000;
+    font-size: 36px;
+    font-weight: 550;
+}
+
+h1,
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p {
+    background-color: #b0fe83b7;
+    color: #000000;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: justify;
+    text-indent: 45px;
+    margin-top: 29px;
+    /* padding-top: 29px;
+    padding-right: 52px;
+    padding-bottom: 43px;
+    padding-left: 52px; */
+    padding: 29px 52px 43px 52px
+        
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto 0 auto;
+}
